@@ -1,7 +1,7 @@
 # Finance Manager
 
 ## Objetivo da aplicação:
-O Finance Manager é uma aplicação web desenvolvida para ajudar os usuários a gerenciar suas finanças pessoais. Ele permite aos usuários registrar suas contas financeiras, despesas e passivos, fornecendo uma visão geral clara de sua situação financeira. Além disso, o aplicativo oferece recursos para definir metas de economia e visualizar dados financeiros em gráficos intuitivos.
+O Finance Manager é uma aplicação web desenvolvida para ajudar os usuários a gerenciar as suas finanças pessoais. Ele permite aos usuários registrar as suas contas financeiras, despesas e passivos, fornecendo uma visão geral clara da sua situação financeira. Além disso, o aplicativo oferece recursos para definir metas de economia e visualizar dados financeiros em gráficos intuitivos.
 
 ## Justificação técnica da escolha da framework:
 A escolha da framework Django para o desenvolvimento do Finance Manager foi baseada em diversos fatores:
@@ -40,3 +40,5 @@ Após iniciar o servidor de desenvolvimento, você poderá acessar o Finance Man
 - Adição de contas financeiras e definição de metas de economia.
 - Registro de despesas e passivos.
 - Visualização de dados financeiros em gráficos interativos.
+- Para fazer logout carregue no logotipo da aplicação
+  
