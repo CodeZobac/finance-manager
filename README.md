@@ -21,10 +21,10 @@ Para executar o Finance Manager em seu ambiente local, siga as etapas abaixo:
     git clone <https://github.com/CodeZobac/finance-manager>
     ```
 
-2. Faça o build e execute o servidor de desenvolvimento do Django com o docker:
+2. Faça o build e execute o servidor de desenvolvimento do Django utilizando o Make:
 
     ```
-    docker-compose up --build
+    make run
     ```
 
 3. Acesse o aplicativo em seu navegador usando o seguinte URL:
