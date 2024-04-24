@@ -48,5 +48,5 @@ Após iniciar o servidor de desenvolvimento, você poderá acessar o Finance Man
 - Adição de contas financeiras e definição de metas de economia.
 - Registro de despesas e passivos.
 - Visualização de dados financeiros em gráficos interativos.
-- Para fazer logout carregue no logotipo da aplicação
+## Para fazer logout carregue no logotipo da aplicação
   
