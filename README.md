@@ -42,6 +42,7 @@ Para executar o Finance Manager em seu ambiente local, siga as etapas abaixo:
 
 ## Como utilizar a aplicação:
 Após iniciar o servidor de desenvolvimento, você poderá acessar o Finance Manager no seu navegador. O aplicativo oferece as seguintes funcionalidades:
+## Se a aplicação aparecer desformatada no inicio clique em shift e depois no reload para forçar o reload da página
 
 - Registro e login de usuários.
 - Adição de contas financeiras e definição de metas de economia.
